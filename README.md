@@ -7,7 +7,7 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
 <h2> En fait : </h2>
 
 <p> ・ 📡 Je travaille actuellement  sur des nouveaux projets ... <br> 
-    ・ 🌱 J'apprends chaque jours de nouvelles choses ... <br>
+    ・ 🌱 J'apprends chaque jour de nouvelles choses ... <br>
     ・ 👯 J'aide les gens au quotidien ... <br> 
     ・ 📂 Mon portefolio s'agrandit de jour en jour ... <br>
     ・ 💎 Pour me joindre : sinixcompagnypro@gmail.com ... 

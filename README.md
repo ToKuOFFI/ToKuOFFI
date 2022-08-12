@@ -37,8 +37,23 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
 
 <a href="https://discord.gg/sinixdev"><img width="80%" src="https://cdn.discordapp.com/attachments/550812787358826513/1007745469599973548/baniere_sinix_dev_toku.png"></a>
 
+    discord.gg/sinixdev
+<br> 
 
+    https://www.youtube.com/channel/UCC-t40pbAhyoXQRoRlczKXg
+
+<br> 
+
+    https://www.tiktok.com/@sinixdevofficiel 
+    
 <h1> Statistiques GitHub </h1>
 <br>
 
+  
+
 ![GHstats](https://github-readme-stats.vercel.app/api?username=ToKuOFFI&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
+
+
+    
+   
+    

@@ -4,7 +4,7 @@
 Je travaille comme gérant et fondateur au sein du serveur SINIXDEV depuis maintenant 2 ans. 💡 <br> 
 Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
 
-<h2> En fait : </h2>
+<h1> En fait  </h1>
 
 <p> ・ 📡 Je travaille actuellement  sur des nouveaux projets ... <br> 
     ・ 🌱 J'apprends chaque jour de nouvelles choses ... <br>
@@ -21,6 +21,8 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
 
 <h1> Mon quotidien </h1>
 
+<br>
+
 ```mermaid 
     graph TD;
     Dormir-->Coder;
@@ -29,7 +31,14 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
     Coder-->Dormir;
 ```
 
-<br>
+
+
+<h1> Nos réseaux </h1>
+
+<a href="https://discord.gg/sinixdev"><img src="https://cdn.discordapp.com/attachments/550812787358826513/1007745469599973548/baniere_sinix_dev_toku.png" border: solid 2px white></a>
+
+
+<h1> Statistiques GitHub </h1>
 <br>
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=ToKuOFFI&show_icons=true#GH-LIGHT-MODE-ONLY)
+![GHstats](https://github-readme-stats.vercel.app/api?username=ToKuOFFI&show_icons=true)

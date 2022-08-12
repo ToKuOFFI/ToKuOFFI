@@ -12,5 +12,7 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
     ・ 📂 Mon portefolio s'agrandit de jour en jour ... <br>
     ・ 💎 Pour me joindre : sinixcompagnypro@gmail.com ... 
   </p>
+  
+ <h1> Activité recente sur Github </h1>
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=ToKuOFFI&show_icons=true)

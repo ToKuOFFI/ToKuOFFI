@@ -30,7 +30,7 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
     Manger-->Coder;
     Coder-->Dormir;
 ```
-<img src="https://camo.githubusercontent.com/1a651c58968d5be6555be083c0844ddb550e500aa786f50d4aa66a345125ee9c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d5446502d5061756c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d314539304646267374796c653d666c6174" alt="Vues sur le profil" data-canonical-src="https://komarev.com/ghpvc/?username=TFP-Paul&amp;label=Profile%20views&amp;color=1E90FF&amp;style=flat" style="max-width: 100%;" _msthidden="A" _msthiddenattr="4101006" _mstalt="296517">
+
 
 
 <h1> Nos réseaux </h1>

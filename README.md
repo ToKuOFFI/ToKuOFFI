@@ -13,7 +13,7 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
     ・ 💎 Pour me joindre : sinixcompagnypro@gmail.com ... 
   </p>
   
- <h1> Activité recente sur Github </h1>
+ <h1> Activité récente sur Github </h1>
  
 <p> ・ 🚗 Parking CentralFR (https://github.com/ToKuOFFI/ParkingCentralFR) <br> 
     ・ 🚀 LocalHost FiveM | Mise à jours toutes les 2 semaines (https://github.com/ToKuOFFI/LocalHost <br>

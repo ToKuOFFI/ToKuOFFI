@@ -37,14 +37,14 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
 
 <a href="https://discord.gg/sinixdev"><img width="80%" src="https://cdn.discordapp.com/attachments/550812787358826513/1007745469599973548/baniere_sinix_dev_toku.png"></a>
 
-    discord.gg/sinixdev
+    🧪 | discord.gg/sinixdev
 <br> 
 
-    https://www.youtube.com/channel/UCC-t40pbAhyoXQRoRlczKXg
+    🔭 | https://www.youtube.com/channel/UCC-t40pbAhyoXQRoRlczKXg
 
 <br> 
 
-    https://www.tiktok.com/@sinixdevofficiel 
+    🗞️ | https://www.tiktok.com/@sinixdevofficiel 
     
 <h1> Statistiques GitHub </h1>
 <br>

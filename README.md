@@ -19,5 +19,13 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
     ・ 🚀 LocalHost FiveM | Mise à jours toutes les 2 semaines (https://github.com/ToKuOFFI/LocalHost <br>
   </p>
 
+### Mon quotidien
+
+```mermaid 
+    graph TD;
+    Code-->Eat;
+    Eat-->Sleep;
+    Sleep-->Code;
+    ```
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=ToKuOFFI&show_icons=true)

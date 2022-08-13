@@ -27,7 +27,8 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
     graph TD;
     Dormir-->Coder;
     Coder-->Manger;
-    Muscu-->Coder
+    Manger-->Muscu;
+    Muscu-->Coder;
     Coder-->Dormir;
 ```
 

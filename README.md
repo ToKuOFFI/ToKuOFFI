@@ -28,7 +28,10 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
     Dormir-->Coder;
     Coder-->Manger;
     Manger-->Muscu;
-    Muscu-->Coder;
+    Muscu-->DemonSlayer;
+    DemonSlayer-->Muscu;
+    Muscu-->Manger;
+    Manger-->Coder;
     Coder-->Dormir;
 ```
 

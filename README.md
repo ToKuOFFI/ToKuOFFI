@@ -16,7 +16,7 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
  <h1> Activité récente sur Github </h1>
  
 <p> ・ 🚗 Parking CentralFR (https://github.com/ToKuOFFI/ParkingCentralFR) <br> 
-    ・ 🚀 LocalHost FiveM | Mise à jours toutes les 2 semaines (https://github.com/ToKuOFFI/LocalHost <br>
+    ・ 🚀 LocalHost FiveM | Mise à jours toutes les 2 semaines (https://github.com/ToKuOFFI/LocalHost) <br>
   </p>
 
 <h1> Mon quotidien </h1>

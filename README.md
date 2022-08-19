@@ -10,7 +10,7 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
     ・ 🌱 J'apprends chaque jour de nouvelles choses ... <br>
     ・ 👯 J'aide les gens au quotidien ... <br> 
     ・ 📂 Mon portefolio s'agrandit de jour en jour ... <br>
-    ・ 💎 Pour me joindre : sinixcompagnypro@gmail.com ... 
+    ・ 💎 Pour me joindre : sinixcompagnypro@gmail.com ... <br>
     ・ 🤖 Mon bot public : https://discord.com/oauth2/authorize?client_id=1007317905077194873&permissions=8&scope=bot%20applications.commands
   </p>
   

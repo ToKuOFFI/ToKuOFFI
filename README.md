@@ -20,6 +20,7 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
     ・ 🚀 LocalHost FiveM | Mise à jours toutes les 2 semaines (https://github.com/ToKuOFFI/LocalHost) <br>
     ・ 🎀 Mapping replace drapeaux US en FR (https://github.com/ToKuOFFI/ReplaceDrapeauxUS) <br>
     ・ 💣 MultiLuncher (https://github.com/ToKuOFFI/MultiTools) <br>
+    ・ 🍭 Code DiscordDJSV14 (https://github.com/ToKuOFFI/DiscordJSV14) <br>
   </p>
 
 <h1> Mon quotidien </h1>

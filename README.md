@@ -53,6 +53,9 @@ Je suis Développeur depuis maintenant plus de 2 ans ! 🔥</p>
 <br> 
 
     🗞️ | https://www.tiktok.com/@sinixdevofficiel 
+<br>
+
+    🤖 | https://discord.gg/rHBztbN7tn
     
 <h1> Statistiques GitHub </h1>
 <br>
